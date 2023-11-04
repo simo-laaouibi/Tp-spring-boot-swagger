@@ -18,6 +18,8 @@ postman
 
 maven
 
+JPQL
+
 
 # screen shot :
 ![image](https://github.com/simo-laaouibi/Tp-spring-boot-swagger/assets/148088062/761c0120-2d88-4caa-bb29-93f75ee46898)
@@ -134,6 +136,15 @@ maven
 
 ---swagger 
 ![image](https://github.com/simo-laaouibi/Tp-spring-boot-swagger/assets/148088062/fdb6e2a1-f90f-4e58-8f66-fdb33762c953)
+
+
+Spring Boot :
+
+Spring Boot est un framework open source pour le développement d'applications Java. Il est conçu pour simplifier le processus de création d'applications Java en fournissant des conventions, des modèles et des outils pour les tâches courantes
+
+Swagger :
+
+Swagger est un outil open source permettant de concevoir, de documenter et de tester des API REST. Il fournit une interface conviviale pour la documentation des API, ce qui facilite la compréhension et l'utilisation des services web
 
 
 
