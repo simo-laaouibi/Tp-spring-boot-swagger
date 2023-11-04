@@ -1,0 +1,11 @@
+ma\projet\entities\User.class
+ma\projet\controller\FiliereController.class
+ma\projet\entities\Role.class
+ma\projet\repositories\StudentRepository.class
+ma\projet\entities\Filiere.class
+ma\projet\service\FiliereService.class
+ma\projet\dao\IDao.class
+ma\projet\entities\Student.class
+ma\projet\demo\School1Application.class
+ma\projet\repositories\FiliereRepository.class
+ma\projet\repositories\RoleRepository.class
