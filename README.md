@@ -1,5 +1,17 @@
 # Tp-spring-boot-swagger
 Spring Boot et Swagger sont deux technologies populaires dans le monde du développement d'applications en Java
+# a propos 
+Ce projet est une application de gestion qui permet de gérer des étudiants, des filières, des rôles et des utilisateurs. Les étudiants héritent des attributs d'un utilisateur, et il est possible d'affecter des étudiants à des filières et d'attribuer des rôles à des utilisateurs.
+
+L'application a été développée en utilisant les technologies et outils suivantes :
+
+Spring Boot : Un framework Java qui simplifie le développement d'applications web et facilite la création de services RESTful.
+
+Postman : Un outil de test d'API qui permet de tester les endpoints de l'application et de vérifier leur fonctionnement.
+
+JPQL (Java Persistence Query Language) : Un langage de requête pour interagir avec la base de données de manière orientée objet.
+
+Swagger : Un outil de documentation d'API qui génère une documentation interactive pour les endpoints de l'application.
 # fonctionnalite :
 --génération de la base de données
 --APIs CRUD (create, update, delete, findById , findAll)
